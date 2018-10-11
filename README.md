@@ -8,12 +8,25 @@
 
  > 2.[语雀相关好文](https://github.com/Seasons123/blog-UX-Designer/issues/2)
  
+ > 3.[如何评价新版 iPhone X 的设计规范？](https://www.zhihu.com/question/65286874/answer/230195437)
+ 
+ 
  ### 三、读书笔记
 
  > 1.[《模度》](https://github.com/Seasons123/blog-UX-Designer/issues/3)
+ 
+ > 2.[《Atomic Design by Brad Frost》](https://github.com/Seasons123/blog-UX-Designer/issues/4)
+ 
+ > 3.[《建筑模式语言》](https://github.com/Seasons123/blog-UX-Designer/issues/5)
+ 
+ > 4.[《界面设计模式》](https://github.com/Seasons123/blog-UX-Designer/issues/7)
+ 
+ > 5.[《Web 界面设计》](https://github.com/Seasons123/blog-UX-Designer/issues/8)
+ 
  
  
   ### 四、常用常逛网站
 
  > 1.[ SketchUp吧](http://www.sketchupbar.com)
 
+ > 2.[ 一个面向创作家、艺术工作者、设计师等创意类作品人群的网站-Dribbble](https://dribbble.com)
