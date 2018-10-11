@@ -7,3 +7,7 @@
  > 1.[蚂蚁金服体验科技系列好文](https://github.com/Seasons123/blog-UX-Designer/issues/1)
 
  > 2.[语雀相关好文](https://github.com/Seasons123/blog-UX-Designer/issues/2)
+ 
+ ### 三、读书笔记
+
+ > 1.[《模度》](https://github.com/Seasons123/blog-UX-Designer/issues/3)
