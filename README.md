@@ -17,11 +17,9 @@
  
  > 2.[《Atomic Design by Brad Frost》](https://github.com/Seasons123/blog-UX-Designer/issues/4)
  
- > 3.[《建筑模式语言》](https://github.com/Seasons123/blog-UX-Designer/issues/5)
+ > 3.[《界面设计模式》](https://github.com/Seasons123/blog-UX-Designer/issues/7)
  
- > 4.[《界面设计模式》](https://github.com/Seasons123/blog-UX-Designer/issues/7)
- 
- > 5.[《Web 界面设计》](https://github.com/Seasons123/blog-UX-Designer/issues/8)
+ > 4.[《Web 界面设计》](https://github.com/Seasons123/blog-UX-Designer/issues/8)
  
  
  
